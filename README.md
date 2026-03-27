@@ -1,2 +1,10 @@
-Part 2: Git CLI
-Congratulations on starting the journey with your company by creating an open source Simple Interest Calculator bash script on GitHub. Your changes have been accepted and merged and the company has created a new global repository for the teams to collaborate. Other developers have contributed to this repository over time. Your team has found a mistake in one of the markdown files. You are asked to fork this repository and fix the mistake by using Git CLI in the provided lab environment and open a pull request.
+# This is the README.md file for the **github-final-project**
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r/100
