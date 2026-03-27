@@ -24,3 +24,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 ```bash
 python simple_interest.py
 ``
+This repository is the first step in migrating code from SVN to Git as part of adopting modern version control practices.
