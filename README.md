@@ -1,2 +1,26 @@
-# simple-interest-calculator
-A simple open-source Python project to calculate simple interest, created as a sample repository for migrating from SVN to Git and promoting financial empowerment.
+# Simple Interest Calculator
+
+A beginner‑friendly Python project to calculate **Simple Interest**, created as part of a micro‑finance startup’s journey from **SVN to Git**.
+
+This repository serves as a **sample open‑source project** to:
+- Demonstrate GitHub‑based collaboration
+- Encourage community contributions
+- Promote transparent financial tools for low‑income individuals
+
+---
+
+## 📐 Formula Used
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.x installed
+
+### Run the Script
+```bash
+python simple_interest.py
+``
